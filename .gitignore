@@ -1,0 +1,14 @@
+# File sementara
+*.tmp
+*.log
+
+# File editor
+*.swp
+*.swo
+
+# File cache
+__pycache__/
+*.pyc
+
+# File Report 
+report.html
